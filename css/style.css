@@ -1,0 +1,203 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-area{
+  background: #0FC690;
+  text-align: center;
+  padding: 20px 0;
+}
+.navbar-light .navbar-brand {
+  
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 20px;
+  
+}
+
+.navbar-light .navbar-brand:hover {
+  
+  color: #fff;
+  
+  
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    
+
+}
+
+.carousel-caption{
+  top: 38%;
+}
+
+.carousel-caption h1{
+  font-weight: bold;
+  font-size: 80px;
+  color: #fff;
+  
+}
+
+.carousel-caption p{
+  font-size: 20px;
+
+}
+
+.slider-btn{
+  padding: 18px 48px;
+  background: #0FC690;
+  border: none;
+}
+
+.slider-btn a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+
+.about-area{
+  text-align: center;
+  padding: 80px 0 20px 0;
+}
+
+
+.about-text h1{
+  font-size: 60px;
+  color: black;
+  font-weight: bolder;
+  border-bottom: 2px solid #000;
+  display: inline-block;
+  padding-bottom: 15px;
+}
+
+.about-text p{
+  font-size: 20px;
+  padding: 10px 0;
+  color: #3D3C3C;
+}
+
+
+.about-img{
+  padding: 25px 0;
+}
+
+
+.about-bnt{
+  padding: 20px 0 15px 0;
+}
+
+
+.ab-btn{
+  padding: 18px 48px;
+  background: #000;
+  border: none;
+}
+
+.ab-btn a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+
+.ab-btn:hover{
+  background: #0FC690;
+  transition: 3s;
+}
+
+
+.service-area{
+  background: #F4F4F4;
+  padding: 25px 0 20px 0;
+}
+
+.service-text{
+  text-align: center;
+  
+}
+
+.service-text h1{
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 1px solid #0FC690;
+  padding: 25px 0 10px 0;
+  display: inline;
+}
+
+.service-text p{
+  margin: 20px 0 15px 0;
+  font-size: 16px;
+  color: #3D3C3C;
+}
+
+.service-more{
+  margin: 100px 0 0 0;
+}
+
+.service-area-right h3{
+  font-size: 48px;
+  color: #000066;
+  font-weight: bolder;
+}
+
+
+.service-area-right h1{
+  font-size: 110px;
+  line-height: 160px;
+  font-weight: bold;
+  color: #000;
+  padding-bottom: 20px;
+}
+
+.service-area-right p{
+  font-size: 20px;
+  color: #19449b;
+  text-align: justify;
+}
+
+
+.service-btn button{
+background: #000;
+padding: 15px 30px;
+border: none;
+margin-top: 20px;
+margin-right: 30px;
+
+
+}
+
+.service-btn button a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.service-btn button:hover{
+  background: #FF0000;
+  transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
